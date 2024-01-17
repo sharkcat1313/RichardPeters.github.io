@@ -1,0 +1,11 @@
+li{
+    list-style: none;
+}
+a.nav-link{
+    color:#363636;
+}
+.Logo{
+    max-width: 30px;
+    min-width: 75px;
+}
+
